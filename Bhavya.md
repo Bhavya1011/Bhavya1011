@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning html and C language
 
-- 📫 Contact me on instagram- https://instagram.com/2cmeet_1.11?utm_medium=copy_link
+- 📫 Contact me on instagram- https://instagram.com/artist_1120?utm_medium=copy_link
 
 
 <!---
